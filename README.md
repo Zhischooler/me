@@ -5,3 +5,4 @@ My Data Summary
 ## Hot Lists
 
 - [Know FastAPI !](./docs/261012.md)
+-[The Character Pincher Game](./docs/261023.md)
