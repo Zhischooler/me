@@ -2,7 +2,7 @@
 My Data Summary
 
 
-[Gitee](https://gitee.com/Zhischooler/me]
+[Gitee](https://gitee.com/Zhischooler/me)
 ## Lists
 [2026 Summary](./lists/2026.md)
 ## Hot Lists
